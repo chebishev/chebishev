@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chebishev
 - 👀 I’m interested in music, programming, smartwatches, smartphones, computers.
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on wherever I can be useful :)
+- 💞️ I’m looking to collaborate on whatever I can be useful :)
 - 📫 How to reach me: https://t.me/chebisheff
 
 <!---
