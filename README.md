@@ -12,7 +12,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebishev&layout=compact&hide_border=true" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=chebishev" alt="chebishev" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chebishev" alt="chebishev" />
 <!---
 chebishev/chebishev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
