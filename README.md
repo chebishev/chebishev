@@ -9,7 +9,7 @@
 
 ### GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=chebishev&label=Profile%20views&color=0e75b6&style=flat" alt="chebishev" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chebishev
 " />
 <!---
 chebishev/chebishev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
