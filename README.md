@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chebishev.
 - 👀 I’m interested in music, programming, smartwatches, smartphones, computers.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning for Python Full Stack Developer
 - 💞️ Looking to collaborate on whatever I can be useful :)
 - 📫 How to reach me: 
 - Telegram: https://t.me/chebisheff
