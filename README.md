@@ -8,7 +8,7 @@
 - LinkedIn: www.linkedin.com/in/atanas-chebishev
 - Facebook: https://www.facebook.com/atanas.chebishev
 - YouTube: https://www.youtube.com/@atanaschebishev
-- Pyjokes on Flask: chebishev.pythonanywhere.com
+- Pyjokes on Flask: https://chebishev.pythonanywhere.com
 
 ### GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=chebishev&label=Profile%20views&color=0e75b6&style=flat" alt="chebishev" />
