@@ -4,9 +4,11 @@
 - 💞️ Looking to collaborate on whatever I can be useful :)
 - 📫 How to reach me: 
 - Telegram: https://t.me/chebisheff
+- Discord: https://discord.com/users/1063076636976754798
 - LinkedIn: www.linkedin.com/in/atanas-chebishev
 - Facebook: https://www.facebook.com/atanas.chebishev
 - YouTube: https://www.youtube.com/@atanaschebishev
+- Pyjokes on Flask: chebishev.pythonanywhere.com
 
 ### GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=chebishev&label=Profile%20views&color=0e75b6&style=flat" alt="chebishev" />
