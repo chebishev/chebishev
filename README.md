@@ -9,6 +9,7 @@
 - Facebook: https://www.facebook.com/atanas.chebishev
 - YouTube: https://www.youtube.com/@atanaschebishev
 - Pyjokes on Flask: https://chebishev.pythonanywhere.com
+- If you accidentally type something in English instead of Bulgarian BDS/Typewriter: https://english2bds.onrender.com/
 
 ### GitHub Stats
 <img src="https://komarev.com/ghpvc/?username=chebishev&label=Profile%20views&color=0e75b6&style=flat" alt="chebishev" />
