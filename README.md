@@ -12,6 +12,7 @@
 - If you accidentally type something in English instead of Bulgarian: https://english2bds.onrender.com/
 
 ### GitHub Stats
+[![chebishev's GitHub stats](https://github-readme-stats.vercel.app/api?username=chebishev)](https://github.com/chebishev/github-readme-stats)
 <img src="https://komarev.com/ghpvc/?username=chebishev&label=Profile%20views&color=0e75b6&style=flat" alt="chebishev" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chebishev&layout=compact&hide_border=true" />
