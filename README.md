@@ -12,8 +12,8 @@
 - If you accidentally type something in English instead of Bulgarian: https://english2bds.onrender.com/
 
 ### GitHub Stats
-![chebishev's Stats](https://github-readme-stats.vercel.app/api?username=chebishev&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![chebishev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chebishev&theme=dark&hide_border=true)
+![chebishev's Stats](https://github-readme-stats.vercel.app/api?username=chebishev&theme=dark&show_icons=true&hide_border=true&count_private=true)  
+![chebishev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=chebishev&theme=dark&hide_border=true)  
 ![chebishev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chebishev&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <!---
 chebishev/chebishev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
