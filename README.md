@@ -14,7 +14,7 @@
 ### GitHub Stats
 ![chebishev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chebishev&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)  
 ![chebishev's Stats](https://github-readme-stats.vercel.app/api?username=chebishev&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=00000000)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chebishev&theme=dark&hide_border=true&background=45%2C00000000%2C00000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=chebishev&theme=dark&hide_border=true&background=45%2C00000000%2C00000000)](https://git.io/streak-stats)
 <!---
 chebishev/chebishev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
