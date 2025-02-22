@@ -10,6 +10,7 @@
 - YouTube: https://www.youtube.com/@atanaschebishev
 - Pyjokes on Flask: https://chebishev.pythonanywhere.com
 - If you accidentally type something with Latin letters instead of Bulgarian BDS/Traditional Phonetic: https://english2bds.onrender.com/
+- Plovdiv Youth Choir "oTEPETo": https://otepeto.com
 
 ### GitHub Stats
 ![chebishev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chebishev&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)  
