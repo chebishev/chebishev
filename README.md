@@ -11,6 +11,7 @@
 - 👇 Deployed projects: \
 -- Pyjokes on Flask: https://chebishev.pythonanywhere.com \
 -- Site scraper on FastAPI: https://fastapi-site-scraper.onrender.com/docs \
+-- xiaomi.eu Rom Checker on Django: https://romchecker.pythonanywhere.com/ \
 -- If you accidentally type something with Latin letters instead of Bulgarian BDS/Traditional Phonetic: https://english2bds.onrender.com/ \
 -- Plovdiv Youth Choir "oTEPETo": https://otepeto.com
 
