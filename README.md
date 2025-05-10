@@ -9,6 +9,7 @@
 -- Facebook: https://www.facebook.com/atanas.chebishev \
 -- YouTube: https://www.youtube.com/@atanaschebishev
 - 👇 Deployed projects: \
+-- API for all xiaomi devices and their codenames: https://allxiaomidevicecodes.onrender.com/docs \
 -- Pyjokes on Flask: https://chebishev.pythonanywhere.com \
 -- Site scraper on FastAPI: https://fastapi-site-scraper.onrender.com/docs \
 -- xiaomi.eu Rom Checker on Django: https://romchecker.pythonanywhere.com/ \
