@@ -10,7 +10,7 @@
 -- YouTube: https://www.youtube.com/@atanaschebishev
 - 👇 Deployed projects: \
 -- API for all xiaomi devices and their codenames: https://allxiaomidevicecodes.onrender.com/docs \
--- Scrapy to Excel -> all foods and nutritions from bb-team.org: [Read Only Link]([https://pages.github.com/](https://docs.google.com/spreadsheets/d/1y_o9Es5Aajau9ggKZ4CgEE1zYTVhn5Sy/edit?usp=sharing&ouid=115367196449881872914&rtpof=true&sd=true))
+-- Scrapy to Excel -> all foods and nutritions from bb-team.org: [Read Only Link]((https://docs.google.com/spreadsheets/d/1y_o9Es5Aajau9ggKZ4CgEE1zYTVhn5Sy/edit?usp=sharing&ouid=115367196449881872914&rtpof=true&sd=true)) \
 -- Pyjokes on Flask: https://chebishev.pythonanywhere.com \
 -- Site scraper on FastAPI: https://fastapi-site-scraper.onrender.com/docs \
 -- xiaomi.eu Rom Checker on Django: https://romchecker.pythonanywhere.com/ \
